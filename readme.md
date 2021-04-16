@@ -7,7 +7,7 @@
 > BitToInk is a website which converts digital text to handwritten PDF
 
 --- 
-[![Download ](https://img.shields.io/badge/-Get%20the%20link%20to%20the%20Website-brightgreen)](https://bit-to-ink.stcvit.in/)
+[![Download ](https://img.shields.io/badge/-Get%20the%20link%20to%20the%20Website-brightgreen)](https://bittoink.stcvit.in/)
 
 <br>
 
