@@ -20,6 +20,7 @@
 ## Contributors
 * <a href="https://github.com/singhalyash8080"> Yash Singhal </a>
 * <a href="https://github.com/samarthya-jha"> Samarthya Jha </a>
+* <a href="https://github.com/Anay241"> Anay Rajguru </a>
 * <a href="https://github.com/RishabhBudhia"> Rishabh Budhia </a>
 
 ## Connect with Us
